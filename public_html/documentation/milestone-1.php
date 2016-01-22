@@ -29,6 +29,5 @@
 			<div class="boxtitle">Use Case:</div>
 			<div class="box">
 			Jon is not the guru when it comes to technology, however he is a savvy entrepreneur. He has a great idea that he believes will help humanity and make money at the same time. Having the mindset that one cannot make money without spending it, he knows he can hire the talent he needs to hire a team to build his dream app. He surfs the web for people who have nice presentations and are knowledgeable with good reputations. He comes to The Hackey Hooker and is amazed by what finds there.</div>
-			</div>
 	</body>
 </html>
