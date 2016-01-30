@@ -6,6 +6,7 @@
 		<title>Milestone 2a</title>
 	</head>
 	<body>
+		<h1>Alert! Reformatted <a href="milestone-1.php">milestone-1.php</a> Used the knowledge I have gained over this past week to improve what was initially built.</h1>
 		<h2>Website Wireframe</h2>
 		<ul>
 			<li>
