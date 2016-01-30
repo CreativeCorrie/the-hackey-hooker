@@ -9,52 +9,38 @@
 		<h2>Website Wireframe</h2>
 		<ul>
 			<li>
-				<a href="../time-crunchers-timeline.php"></a>
+				<a href="../images/wireframe0.jpg">Web view of Home Page</a>
 			</li>
+			<li>
+				<a href="../images/wireframe1.jpg">Web view of My Work Page</a>
+			</li>
+			<li>
+				<a href="../images/wireframe2.jpg">Web view of Contact Page</a>
+			</li>
+		</ul>
 
-		</ul>
-		<h2>Data Design</h2>
+		<h2>Mobile Wireframe</h2>
 		<ul>
 			<li>
-				<a href="conceptual-model.php">Conceptual Model</a>
+				<a href="../images/mobile-home.jpg">Mobile view of Home Page</a>
 			</li>
 			<li>
-				<a href="erd.php">ERD</a>
+				<a href="../images/mobile-my-work.jpg">Mobile view of My Work Page</a>
 			</li>
 			<li>
-				<a href="system-goals.php">System Goals</a>
-			</li>
-			<li>
-				<a href="use-cases.php">Use Cases</a>
+				<a href="../images/mobile-contact.jpg">Mobile view of Contact Page</a>
 			</li>
 		</ul>
-		<h2>Personas</h2>
+		<h2>Site Map</h2>
 		<ul>
-			<li>
-				<a href="../personas/bob.php">Bob</a>
-			</li>
-			<li>
-				<a href="../personas/hugh-allen.php">Hugh Allen</a>
-			</li>
-			<li>
-				<a href="../personas/Lucille.php">Lucille</a>
-			</li>
-			<li>
-				<a href="../personas/suzy.php">Suzy</a>
-			</li>
-			<li>
-				<a href="../personas/talia.php">Talia</a>
-			</li>
-			<li>
-				<a href="../personas/user-stories.php">User Stories</a>
-			</li>
+			<li>Home</li>
+			<li>My Work</li>
+			<li>Contact Me</li>
 		</ul>
 	</body>
 </html>
 
 
 
-<img src="../images/wireframe0.jpg" rel="Landing Page">
-<img src="../images/wireframe1.jpg" rel="Contact page">
-<img src="../images/wireframe2.jpg" rel="Another Layout">
+
 
