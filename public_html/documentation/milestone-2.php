@@ -33,7 +33,7 @@
 			</li>
 		</ul>
 		<h2>Site Map</h2>
-			<img src="../images/mindly-1191042760.pdf" rel="site map graph">
+			<a href="../images/mindly-1191042760.pdf" rel="site map graph">Site Map Graph</a>
 			<h3>Home</h3>
 			<h3>About Me</h3>
 					Contact Me <br>
