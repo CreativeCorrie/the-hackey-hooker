@@ -6,7 +6,7 @@
 		<title>Milestone 2a</title>
 	</head>
 	<body>
-		<h1>Alert! Reformatted <a href="milestone-1.php">milestone-1.php</a> Used the knowledge I have gained over this past week to improve what was initially built.</h1>
+
 		<h2>Website Wireframe</h2>
 		<ul>
 			<li>
@@ -33,10 +33,24 @@
 			</li>
 		</ul>
 		<h2>Site Map</h2>
-		<ul>
-			<li>Home</li>
-			<li>My Work</li>
-			<li>Contact Me</li>
-		</ul>
+
+			<h3>Home</h3>
+			<h3>About Me</h3>
+					Contact Me <br>
+			<h3>My Work and Background</h3>
+
+				<h4>Technological Resume</h4>
+				<h4>My Projects</h4>
+					DiseaseMorph.com<br>
+					CreativeCorrie.com<br>
+				<h4>Coming Soon</h4>
+					GitBitRewards<br>
+					DunnyGuitars.com<br>
+					Trish Singlyn<br>
+					HAA.com<br>
+
+
+
 	</body>
 </html>
+
