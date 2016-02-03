@@ -33,7 +33,7 @@
 			</li>
 		</ul>
 		<h2>Site Map</h2>
-			<
+			<img src="../images/website-map2.jpg" alt="website map">
 			<h3>Home</h3>
 			<h3>About Me</h3>
 					Contact Me <br>
