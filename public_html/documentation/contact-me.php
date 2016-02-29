@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href=//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
 		<!-- My Custom CSS rlewis37@cnm.edu -->
-		<link rel="stylesheet" href="../css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="../css/stylesheet.css" type="text/css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,7 +44,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="home.html">
+						<a class="navbar-brand" href="home.php">
 							<img alt="Logo" src="../images/logo2.png" height="40" width="100">
 						</a>
 					</div>
