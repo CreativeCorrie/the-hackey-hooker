@@ -33,6 +33,7 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 
+************************NAV BAR START********************************
 			<!--this is where the header and navbar go-->
 			<header>
 				<div class="container-fluid">
@@ -70,7 +71,7 @@
 
 
 				</div><!-- /.navbar-collapse -->
-
+				************************NAV BAR END********************************
 			</header>
 
 			<!--this is where the main content goes-->
