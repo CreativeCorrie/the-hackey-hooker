@@ -4,13 +4,13 @@
 * These styles control the layout
 ********************************************/
 header {
-	background-color: white;
+	background-color: black;
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
 
 footer {
-	background-color: #000000;
+	background-color: black;
 	color: aliceblue;
 	font-style: italic;
 	margin-top: 40px;
