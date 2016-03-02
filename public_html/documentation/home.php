@@ -33,8 +33,8 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 
-************************NAV BAR START********************************
-			<!--this is where the header and navbar go-->
+<!--************************NAV BAR START********************************-->
+						<!--this is where the header and navbar go-->
 			<header>
 				<div class="container-fluid">
 					<!-- Brand and toggle get grouped for better mobile display -->
@@ -71,10 +71,10 @@
 
 
 				</div><!-- /.navbar-collapse -->
-				************************NAV BAR END********************************
-			</header>
+<!--************************NAV BAR END********************************-->
+							</header>
 
-			<!--this is where the main content goes-->
+							<!--this is where the main content goes-->
 			<main>
 				<div class="container">
 
@@ -88,6 +88,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="jumbotron">
+								<img alt="Logo" src="../images/dandilion-strip.jpg" height="200" width="800">
 								<h1>Web Developer
 									<img alt="Logo" src="../images/logo.png" height="80" width="200">
 								</h1>

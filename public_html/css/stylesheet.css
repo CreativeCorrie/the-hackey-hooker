@@ -30,6 +30,11 @@ footer {
 	margin-bottom: 20px;
 }
 
+.jumbotron {
+	background-color: black;
+	border-radius: 6px;
+}
+
 .content-box-nest {
 	background-color: white;
 	border-radius: 6px;
