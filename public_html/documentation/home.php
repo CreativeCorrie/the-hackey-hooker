@@ -45,7 +45,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="/home.html">
+						<a class="navbar-brand" href="home.php">
 							<img alt="Logo" src="../images/logo2.png" height="40" width="100">
 						</a>
 					</div>
@@ -54,15 +54,15 @@
 					<div class="btn-group" role="group" aria-label="...">
 						<a class="navbar-brand">
 							<button type="button" class="btn btn-default">Home</button>
-							<link rel="Home" href="home.php">
+							<a rel="Home" href="home.php"></a>
 							<button type="button" class="btn btn-default">My Work</button>
-							<link rel="My Work" href="work.php">
+							<a rel="My Work" href="work.php"></a>
 							<button type="button" class="btn btn-default">Education</button>
-							<link rel="My Education" href="education.php">
+							<a rel="My Education" href="education.php"></a>
 							<button type="button" class="btn btn-default">Background</button>
-							<link rel="My Background" href="background.php">
+							<a rel="My Background" href="background.php"></a>
 							<button type="button" class="btn btn-default">Contact Me</button>
-							<link href="contact-me.php">
+							<a href="contact-me.php"></a>
 						</a>
 
 
