@@ -32,8 +32,11 @@
 	<body class="sfooter">
 		<div class="sfooter-content">
 
-<!--************************NAV BAR START********************************-->
-						<!--this is where the header and navbar go-->
+<!--****=============================================================****-->
+<!--****                    NAV BAR START                            ****-->
+<!--****           this is where the header and navbar go            ****-->
+<!--****=============================================================****-->
+
 			<header>
 				<div class="container-fluid">
 					<!-- Brand and toggle get grouped for better mobile display -->
@@ -70,7 +73,12 @@
 
 
 				</div><!-- /.navbar-collapse -->
-<!--************************NAV BAR END********************************-->
+
+<!--****=============================================================****-->
+<!--****                      NAV BAR End                            ****-->
+<!--****                                                             ****-->
+<!--****=============================================================****-->
+
 							</header>
 
 							<!--this is where the main content goes-->

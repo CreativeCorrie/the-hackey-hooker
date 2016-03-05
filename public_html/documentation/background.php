@@ -13,7 +13,7 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href=//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
-		<!-- My Custom CSS rlewis37@cnm.edu -->
+		<!-- My Custom CSS creativecorrie@gmail.com -->
 		<!-- <link rel="stylesheet" href="../css/stylesheet.css" type="text/css"/>-->
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -39,8 +39,14 @@
 		<!-- Custom styles for this template -->
 		<link href="carousel.css" rel="stylesheet">
 	</head>
-	<!-- NAVBAR
-	================================================== -->
+	<body class="sfooter">
+		<div class="sfooter-content">
+
+<!--****=============================================================****-->
+<!--****                    NAV BAR START                            ****-->
+<!--****           this is where the header and navbar go            ****-->
+<!--****=============================================================****-->
+
 	<body>
 		<div class="navbar-wrapper">
 			<div class="container">
@@ -80,10 +86,14 @@
 
 			</div>
 		</div>
+<!--****=============================================================****-->
+<!--****                      NAV BAR End                            ****-->
+<!--****=============================================================****-->
+<!--****=============================================================****-->
+<!--****                     Carousel Start                          ****-->
+<!--****=============================================================****-->
 
 
-		<!-- Carousel
-		================================================== -->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
@@ -209,10 +219,10 @@
 			<!-- FOOTER -->
 			<footer>
 				<p class="pull-right"><a href="#">Back to top</a></p>
-				<p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+				<p>&copy; Creative Corrie Artista, LLC &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
 			</footer>
 
 		</div><!-- /.container -->
-
+		</div> <!-- /.sfooter collapse-->
 	</body>
 </html>
