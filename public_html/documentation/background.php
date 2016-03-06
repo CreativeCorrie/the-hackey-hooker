@@ -210,13 +210,7 @@
 					</h2>
 
 					<div class="lead">
-						<ul class="list-unstyled">
-							<li>CNM STEMulus Center Deep Dive Coders Bootcamp</li>
-							<li>Girl Develop It!</li>
-							<li>NM Commission on the Status of Women, Team Works</li>
-							<li>Project Phoenix</li>
-							<li>Central New Mexico Community College</li>
-						</ul>
+						<p>It is my belief that technology and innovation moves very fast. You have to keep abreast of the knowledge to really make a difference.</p>
 					</div>
 				</div>
 				<div class="col-md-5">
@@ -224,39 +218,75 @@
 				</div>
 			</div>
 
-
 			<div class="row">
+
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="../images/icon-ddcb-lg.png" alt="Deep Dive Logo">
+						<img src="../images/icon-ddcb-lg.png" alt="Deep Dive Logo" height="60" width="100">
 						<div class="caption">
 							<h3>CNM STEMulus Center Deep Dive Coders Bootcamp</h3>
 							<h3>Albuquerque, NM</h3>
 							<h4>Capstone Project:</h4>
 							<p>Project: Co-developer of Web-based, customized enterprise software solution that integrated business process for scheduling employees.</p>
 							<h4>Coursework to include:</h4>
-								<ul>
-									<li>PHP 7</li>
-									<li>MySQL</li>
-									<li>JavaScript</li>
-									<li>Enterprise Application Development</li>
-									<li>Security</li>
-									<li>It Project Management</li>
-									<li>Web Design</li>
-									<li>Computer Architecture</li>
-									<li>Object Oriented Programming</li>
-									<li>Bootstrap 3</li>
-									<li>CSS 3</li>
-								</ul>
-
-							</div>
-
-							<p><a href="#" class="btn btn-primary" role="button">Capstone Project</a> <a href="http://stemuluscenter.org/deep-dive-coding-bootcamp-application/" class="btn btn-default" role="button">Apply For Deep Dive</a></p>
+							<ul>
+								<li>PHP 7</li>
+								<li>MySQL</li>
+								<li>JavaScript</li>
+								<li>Enterprise Application Development</li>
+								<li>Security</li>
+								<li>It Project Management</li>
+								<li>Web Design</li>
+								<li>Computer Architecture</li>
+								<li>Object Oriented Programming</li>
+								<li>Bootstrap 3</li>
+								<li>CSS 3</li>
+							</ul>
+							<p><a href="#" class="btn btn-primary" role="button">Capstone Project</a> <a href="http://stemuluscenter.org/deep-dive-coding-bootcamp-application/" class="btn btn-default" role="button">Apply For Deep Dive</a>
+							</p>
 						</div>
 					</div>
-				</div>
-			</div>
+				</div><!--/.col-->
 
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img src="../images/gdi.jpg" alt="Girl Develop It Logo" height="700" width="700">
+						<div class="caption">
+							<h3>Girl Develop It!</h3>
+							<h3>Albuquerque, NM</h3>
+							<h4>Coursework to include:</h4>
+							<ul>
+								<li>HTML5</li>
+								<li>CSS 3</li>
+								<li>WAMP</li>
+								<li>PHP</li>
+								<li>MySQL</li>
+							</ul>
+							<p><a href="#" class="btn btn-primary" role="button">Capstone Project</a> <a href="http://stemuluscenter.org/deep-dive-coding-bootcamp-application/" class="btn btn-default" role="button">Apply For Deep Dive</a>
+							</p>
+						</div>
+					</div>
+				</div><!--.col-->
+				​
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img src="../images/teamworks.jpg" alt="Team Works Logo" height="120" width="200">
+						<div class="caption">
+							<h3>NM Commission on the Status of Women, Team Works</h3>
+							<h3>Albuquerque, NM</h3>
+							<h4>Coursework to include:</h4>
+							<ul>
+								<li>Computer science</li>
+								<li>user end information technology</li>
+								<li>interpersonal skills</li>
+								<li>Job readiness</li>
+								<li>Intro to building websites</li>
+							</ul>
+						</div>
+					</div>
+				</div><!--/.col-->
+
+			</div><!--/.row-->
 
 
 
@@ -308,6 +338,5 @@
 			</footer>
 
 		</div><!-- /.container -->
-		</div> <!-- /.sfooter collapse-->
 	</body>
 </html>
