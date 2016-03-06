@@ -262,7 +262,7 @@
 								<li>PHP</li>
 								<li>MySQL</li>
 							</ul>
-							<p><a href="#" class="btn btn-primary" role="button">Capstone Project</a> <a href="http://stemuluscenter.org/deep-dive-coding-bootcamp-application/" class="btn btn-default" role="button">Apply For Deep Dive</a>
+							<p><a href="https://www.girldevelopit.com/chapters/albuquerque" class="btn btn-primary" role="button">Girl Develop It!</a> <a href="http://www.meetup.com/Girl-Develop-It-Albuquerque/" class="btn btn-default" role="button">Meetup for Girl Develop It!</a>
 							</p>
 						</div>
 					</div>
@@ -334,7 +334,7 @@
 			<!-- FOOTER -->
 			<footer>
 				<p class="pull-right"><a href="#">Back to top</a></p>
-				<p>&copy; Creative Corrie Artista, LLC &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+				<p>All photos and website are &copy; Creative Corrie Artista, LLC &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
 			</footer>
 
 		</div><!-- /.container -->
