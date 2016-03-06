@@ -37,7 +37,7 @@
 		<link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
 		<!-- Custom styles for this template -->
-		<link href="carousel.css" rel="stylesheet">
+		<link href="../css/carousel.css" rel="stylesheet">
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
