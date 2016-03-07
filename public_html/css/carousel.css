@@ -76,8 +76,7 @@ body {
 	margin-right: 10px;
 	margin-left: 10px;
 }
-
-.list-unstyled{
+.list-unstyled {
 	list-style-type: none;
 }
 
@@ -94,6 +93,10 @@ body {
 	font-weight: 300;
 	line-height: 1;
 	letter-spacing: -1px;
+}
+.row-padded {
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 

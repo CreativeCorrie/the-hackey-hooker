@@ -110,7 +110,6 @@
 <!--****                     Carousel Start                          ****-->
 <!--****=============================================================****-->
 
-
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
@@ -197,10 +196,7 @@
 			</div><!-- /.row -->
 			<p class="pull-right"><a href="#">Back to top</a></p>
 
-
-
 			<!-- START THE FEATURETTES -->
-
 			<hr class="featurette-divider">
 
 			<div class="row featurette">
@@ -218,7 +214,9 @@
 				</div>
 			</div>
 
-			<div class="row">
+			<div class="row row-padded"
+			<div class="row-padded">
+
 
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
@@ -285,11 +283,7 @@
 						</div>
 					</div>
 				</div><!--/.col-->
-
 			</div><!--/.row-->
-
-
-
 			<p class="pull-right"><a href="#">Back to top</a></p>
 
 
@@ -300,12 +294,66 @@
 					<h2 class="featurette-heading"><a name="Work">Work experience.</a>
 						<span class="text-muted">Been ever so busy.</span>
 					</h2>
-					<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+					<p class="lead">I'm very passionate about my work and carry a belief that any job worth doing is worth doing right. Below is a list of my work experience in technology.</p>
 				</div>
 				<div class="col-md-5 col-md-pull-7">
 					<img class="featurette-image img-responsive center-block" src="../images/stumped-mushrooms.jpg" alt="Generic placeholder image">
 				</div>
 			</div>
+
+			<div class="row row-padded"
+			<div class="row-padded">
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img src="../images/logo2.png" alt="Creative Corrie Artista Logo" height="200" width="200">
+						<div class="caption">
+							<h3>Creative Corrie Artista, LLC</h3>
+							<h4>Albuquerque, NM</h4>
+							<h4>2013-Present</h4>
+							<h4>Owner, Web Developer, Artist</h4>
+							<ul>
+								<li>Providing administrative marketing and technological support for a variety of local individuals, business and professional organizations.</li>
+								<li>Contracting with businesses to develop marketing strategies and plans, event logistics support, web design, App design and database maintenance. </li>
+							</ul>
+						</div>
+					</div>
+				</div><!--/.col-->
+
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img src="../images/dandilion-strip.jpg" alt="Tree" height="300" width="300">
+						<div class="caption">
+							<h3>Yarnell Community Center</h3>
+							<h4>Yarnell, Az</h4>
+							<h4>2011-2013</h4>
+							<h4>Executive Director</h4>
+							<ul>
+								<li>Pioneered a progressive community-wide initiative to reduce food cost and reliance on less nutritional processed foods that resulted in a movement that brought together key townsfolk to implement organic gardening, pest control with bats and guinea hens and sustainable healthy resources.
+								</li>
+								<li>Updated all systems for the Center’s technology, as they were mostly paper and pen at the time of hire.</li>
+								<li>Led resource development activities to include grant funding, endowments, entrepreneurial profit programs, events and in-kind donations.</li>
+							</ul>
+							</p>
+						</div>
+					</div>
+				</div><!--.col-->
+				​
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img src="../images/dandilion-strip.jpg" alt="Blister Bug" height="300" width="300">
+						<div class="caption">
+							<h3>Spider Pharm</h3>
+							<h4>Yarnell, Az</h4>
+							<h4>2009-2011</h4>
+							<h4>Database Manager </h4>
+							<ul>
+								<li>Processed and cared for specimen needs through clinical health observation and built scratch database to aid in the milking rotation of thousands of arachnids, to ensure higher potency of specimens for medical research. </li>
+							</ul>
+						</div>
+					</div>
+				</div><!--/.col-->
+			</div><!--/.row-->
+
 			<p class="pull-right"><a href="#">Back to top</a></p>
 
 
@@ -322,6 +370,7 @@
 				</div>
 				<div class="col-md-5">
 					<img class="featurette-image img-responsive center-block" src="../images/dandilion.jpg" alt="Generic placeholder image">
+
 				</div>
 			</div>
 
@@ -338,5 +387,9 @@
 			</footer>
 
 		</div><!-- /.container -->
+
+<!--****=============================================================****-->
+<!--****            Marketing message & featurettes End              ****-->
+<!--****=============================================================****-->
 	</body>
 </html>
