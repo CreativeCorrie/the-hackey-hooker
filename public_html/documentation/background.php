@@ -177,21 +177,21 @@
 					<h2>Education</h2>
 					<p>Technology moves pretty fast, if you don't stop and educate yourself once in a while, you could miss it.</p>
 					<p><em>~Tweaked from Ferris Bueller</em></p>
-					<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="#Education" role="button">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
 					<img class="img-circle" src="../images/stumped-mushrooms.jpg" alt="Generic placeholder image" width="140" height="140">
 					<h2>Experience</h2>
 					<p>You are the sum total of everything you've ever seen, been told, forgot; it's all there. Everthing influences each of us, and because of the I try to ake sure that my experiences are positive.</p>
 					<p><em>~Maya Angelou</em></p>
-					<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="#Work" role="button">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 				<div class="col-lg-4">
 					<img class="img-circle" src="../images/dandilion.jpg" alt="Generic placeholder image" width="140" height="140">
 					<h2>Samples of My Work</h2>
 					<p>Being busy does not always mean real work. The object of all work is production or accomplishment and to either of these ends there must be forethought, system, planning, intelligence, and honest purpose, as well as perspiration. Seeming to do is not doing.</p>
 					<p><em>~Thomas A. Edison</em></p>
-					<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+					<p><a class="btn btn-default" href="#Samples" role="button">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 			<p class="pull-right"><a href="#">Back to top</a></p>
@@ -333,7 +333,6 @@
 								<li>Updated all systems for the Center’s technology, as they were mostly paper and pen at the time of hire.</li>
 								<li>Led resource development activities to include grant funding, endowments, entrepreneurial profit programs, events and in-kind donations.</li>
 							</ul>
-							</p>
 						</div>
 					</div>
 				</div><!--.col-->
