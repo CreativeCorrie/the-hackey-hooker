@@ -32,10 +32,10 @@
 		<meta name="author" content="">
 
 		<!-- Custom styles for this template -->
-		<link href="../css/carousel.css" rel="stylesheet">
+		<link href="css/carousel.css" rel="stylesheet">
 
 		<title>The Hackey Hooker</title>
-		<link rel="icon" type="images/ico" href="../images/favicon.ico">
+		<link rel="icon" type="images/ico" href="images/favicon.ico">
 
 
 	</head>
@@ -58,7 +58,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="home.php">
-							<img alt="Logo" src="../images/logo2.png" height="25" width="60">
+							<img alt="Logo" src="images/logo2.png" height="25" width="60">
 						</a>
 					</div>
 
@@ -119,7 +119,7 @@
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide" src="../images/cca-cover.jpg" alt="First slide">
+						<img class="first-slide" src="images/cca-cover.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Creative marketing visionary, web developer and artist.</h1>
@@ -129,7 +129,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img class="second-slide" src="../images/el-malpai.jpg" alt="Second slide">
+						<img class="second-slide" src="images/el-malpai.jpg" alt="Second slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Lifelong scholar.</h1>
@@ -139,7 +139,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img class="third-slide" src="../images/zia-mesa.jpg" alt="Third slide">
+						<img class="third-slide" src="images/zia-mesa.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Reliable and responsible self-starter.</h1>
@@ -173,21 +173,21 @@
 				<!-- Three columns of text below the carousel -->
 				<div class="row">
 					<div class="col-lg-4">
-						<img class="img-circle" src="../images/sun-daisy.jpg" alt="Generic placeholder image" width="140" height="140">
+						<img class="img-circle" src="images/sun-daisy.jpg" alt="Generic placeholder image" width="140" height="140">
 						<h2>Education</h2>
 						<p>Technology moves pretty fast, if you don't stop and educate yourself once in a while, you could miss it.</p>
 						<p><em>~Tweaked from Ferris Bueller</em></p>
 						<p><a class="btn btn-default" href="#Education" role="button">View details &raquo;</a></p>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-lg-4">
-						<img class="img-circle" src="../images/stumped-mushrooms.jpg" alt="Generic placeholder image" width="140" height="140">
+						<img class="img-circle" src="images/stumped-mushrooms.jpg" alt="Generic placeholder image" width="140" height="140">
 						<h2>Experience</h2>
-						<p>You are the sum total of everything you've ever seen, been told, forgot; it's all there. Everthing influences each of us, and because of the I try to ake sure that my experiences are positive.</p>
+						<p>You are the sum total of everything you've ever seen, been told, forgot; it's all there. Everthing influences each of us, and because of the I try to make sure that my experiences are positive.</p>
 						<p><em>~Maya Angelou</em></p>
 						<p><a class="btn btn-default" href="#Work" role="button">View details &raquo;</a></p>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-lg-4">
-						<img class="img-circle" src="../images/dandilion.jpg" alt="Generic placeholder image" width="140" height="140">
+						<img class="img-circle" src="images/dandilion.jpg" alt="Generic placeholder image" width="140" height="140">
 						<h2>Samples of My Work</h2>
 						<p>Being busy does not always mean real work. The object of all work is production or accomplishment and to either of these ends there must be forethought, system, planning, intelligence, and honest purpose, as well as perspiration. Seeming to do is not doing.</p>
 						<p><em>~Thomas A. Edison</em></p>
@@ -210,7 +210,7 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<img class="featurette-image img-responsive center-block" src="../images/sun-daisy.jpg" alt="Generic placeholder image">
+						<img class="featurette-image img-responsive center-block" src="images/sun-daisy.jpg" alt="Generic placeholder image">
 					</div>
 				</div>
 
@@ -220,7 +220,7 @@
 
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="../images/icon-ddcb-lg.png" alt="Deep Dive Logo" height="60" width="100">
+							<img src="images/icon-ddcb-lg.png" alt="Deep Dive Logo" height="60" width="100">
 							<div class="caption">
 								<h3>CNM STEMulus Center Deep Dive Coders Bootcamp</h3>
 								<h3>Albuquerque, NM</h3>
@@ -248,7 +248,7 @@
 
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="../images/gdi.jpg" alt="Girl Develop It Logo" height="700" width="700">
+							<img src="images/gdi.jpg" alt="Girl Develop It Logo" height="700" width="700">
 							<div class="caption">
 								<h3>Girl Develop It!</h3>
 								<h3>Albuquerque, NM</h3>
@@ -268,7 +268,7 @@
 					​
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="../images/teamworks.png" alt="Team Works Logo" height="120" width="200">
+							<img src="images/teamworks.png" alt="Team Works Logo" height="120" width="200">
 							<div class="caption">
 								<h3>NM Commission on the Status of Women, Team Works</h3>
 								<h3>Albuquerque, NM</h3>
@@ -297,7 +297,7 @@
 						<p class="lead">I'm very passionate about my work and carry a belief that any job worth doing is worth doing right. Below is a list of my work experience in technology.</p>
 					</div>
 					<div class="col-md-5 col-md-pull-7">
-						<img class="featurette-image img-responsive center-block" src="../images/stumped-mushrooms.jpg" alt="Generic placeholder image">
+						<img class="featurette-image img-responsive center-block" src="images/stumped-mushrooms.jpg" alt="Generic placeholder image">
 					</div>
 				</div>
 
@@ -305,7 +305,7 @@
 				<div class="row-padded">
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="../images/logo2.png" alt="Creative Corrie Artista Logo" height="200" width="200">
+							<img src="images/logo2.png" alt="Creative Corrie Artista Logo" height="200" width="200">
 							<div class="caption">
 								<h3>Creative Corrie Artista, LLC</h3>
 								<h4>Albuquerque, NM</h4>
@@ -321,7 +321,7 @@
 
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="../images/dandilion-strip.jpg" alt="Tree" height="300" width="300">
+							<img src="images/yarnell-hill.png" alt="Yarnell Hill" height="300" width="300">
 							<div class="caption">
 								<h3>Yarnell Community Center</h3>
 								<h4>Yarnell, Az</h4>
@@ -339,7 +339,7 @@
 					​
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="../images/dandilion-strip.jpg" alt="Blister Bug" height="300" width="300">
+							<img src="images/spider-pharm.png" alt="Blister Bug" height="300" width="300">
 							<div class="caption">
 								<h3>Spider Pharm</h3>
 								<h4>Yarnell, Az</h4>
@@ -368,7 +368,7 @@
 						</h3>
 					</div>
 					<div class="col-md-5">
-						<img class="featurette-image img-responsive center-block" src="../images/dandilion.jpg" alt="Generic placeholder image">
+						<img class="featurette-image img-responsive center-block" src="images/dandilion.jpg" alt="Generic placeholder image">
 
 					</div>
 				</div>
@@ -385,18 +385,28 @@
 				<!--****=============================================================****-->
 				<div class="row featurette">
 					<div class="col-md-7 col-md-push-5">
-						<h2 class="featurette-heading"><a name="Contact">Contact.</a>
+
+						<div>
+							<a href="https://twitter.com/CreativeCorrie">
+								<img src="images/twitter.jpg">
+							</a>
+						</div>
+
+
+
+
+						<h2 class="featurette-heading"><a name="Contact">Contact Me.</a>
 							<span class="text-muted">Thanks for Visiting!</span>
 						</h2>
 						<p class="lead">I look forward to hearing from you.</p>
 					</div>
 					<div class="col-md-5 col-md-pull-7">
-						<img class="featurette-image img-responsive center-block" src="../images/angel.jpg" alt="Contact">
+						<img class="featurette-image img-responsive center-block" src="images/ode-Okeeff.png" alt="Contact">
 					</div>
 				</div>
 
 				<div class="row-padded">
-					<form class="form-horizontal well" action="../php/mailer.php">
+					<form class="form-horizontal well" action="php/mailer.php">
 						<div class="form-group">
 							<label for="name">Name</label>
 							<div class="input-group">
