@@ -216,76 +216,80 @@
 
 				<div class="row row-padded"
 				<div class="row-padded">
+					<!-- Begin Columns Here -->
+					<div class="row row-flex">
 
-
-					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
-							<img src="images/icon-ddcb-lg.png" alt="Deep Dive Logo" height="60" width="100">
-							<div class="caption">
-								<h3>CNM STEMulus Center Deep Dive Coders Bootcamp</h3>
-								<h3>Albuquerque, NM</h3>
-								<h4>Capstone Project:</h4>
-								<p>Project: Co-developer of Web-based, customized enterprise software solution that integrated business process for scheduling employees.</p>
-								<h4>Coursework to include:</h4>
-								<ul>
-									<li>PHP 7</li>
-									<li>MySQL</li>
-									<li>JavaScript</li>
-									<li>Enterprise Application Development</li>
-									<li>Security</li>
-									<li>It Project Management</li>
-									<li>Web Design</li>
-									<li>Computer Architecture</li>
-									<li>Object Oriented Programming</li>
-									<li>Bootstrap 3</li>
-									<li>CSS 3</li>
-								</ul>
-								<p><a href="#" class="btn btn-primary" role="button">Capstone Project</a> <a href="http://stemuluscenter.org/deep-dive-coding-bootcamp-application/" class="btn btn-default" role="button">Apply For Deep Dive</a>
-								</p>
+						<div class="col-sm-6 col-md-4">
+							<div class="thumbnail">
+								<img src="images/icon-ddcb-lg.png" alt="Deep Dive Logo" height="60" width="100">
+								<div class="caption">
+									<h3>CNM STEMulus Center Deep Dive Coders Bootcamp</h3>
+									<h3>Albuquerque, NM</h3>
+									<h4>Capstone Project:</h4>
+									<p>Project: Co-developer of Web-based, customized enterprise software solution that integrated business process for scheduling employees.</p>
+									<h4>Coursework to include:</h4>
+									<ul>
+										<li>PHP 7</li>
+										<li>MySQL</li>
+										<li>JavaScript</li>
+										<li>Enterprise Application Development</li>
+										<li>Security</li>
+										<li>It Project Management</li>
+										<li>Web Design</li>
+										<li>Computer Architecture</li>
+										<li>Object Oriented Programming</li>
+										<li>Bootstrap 3</li>
+										<li>CSS 3</li>
+									</ul>
+									<p><a href="#" class="btn btn-primary" role="button">Capstone Project</a> <a href="http://stemuluscenter.org/deep-dive-coding-bootcamp-application/" class="btn btn-default" role="button">Apply For Deep Dive</a>
+									</p>
+								</div>
 							</div>
-						</div>
-					</div><!--/.col-->
+						</div><!--/.col-->
 
-					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
-							<img src="images/gdi.jpg" alt="Girl Develop It Logo" height="700" width="700">
-							<div class="caption">
-								<h3>Girl Develop It!</h3>
-								<h3>Albuquerque, NM</h3>
-								<h4>Coursework to include:</h4>
-								<ul>
-									<li>HTML5</li>
-									<li>CSS 3</li>
-									<li>WAMP</li>
-									<li>PHP</li>
-									<li>MySQL</li>
-								</ul>
-								<p><a href="https://www.girldevelopit.com/chapters/albuquerque" class="btn btn-primary" role="button">Girl Develop It!</a> <a href="http://www.meetup.com/Girl-Develop-It-Albuquerque/" class="btn btn-default" role="button">Meetup for Girl Develop It!</a>
-								</p>
+						<div class="col-sm-6 col-md-4">
+							<div class="thumbnail">
+								<img src="images/gdi.jpg" alt="Girl Develop It Logo" height="700" width="700">
+								<div class="caption">
+									<h3>Girl Develop It!</h3>
+									<h3>Albuquerque, NM</h3>
+									<h4>Coursework to include:</h4>
+									<ul>
+										<li>HTML5</li>
+										<li>CSS 3</li>
+										<li>WAMP</li>
+										<li>PHP</li>
+										<li>MySQL</li>
+									</ul>
+									<p><a href="https://www.girldevelopit.com/chapters/albuquerque" class="btn btn-primary" role="button">Girl Develop It!</a> <a href="http://www.meetup.com/Girl-Develop-It-Albuquerque/" class="btn btn-default" role="button">Meetup for Girl Develop It!</a>
+									</p>
+								</div>
 							</div>
-						</div>
-					</div><!--.col-->
-					​
-					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
-							<img src="images/teamworks.png" alt="Team Works Logo" height="120" width="200">
-							<div class="caption">
-								<h3>NM Commission on the Status of Women, Team Works</h3>
-								<h3>Albuquerque, NM</h3>
-								<h4>Coursework to include:</h4>
-								<ul>
-									<li>Computer science</li>
-									<li>user end information technology</li>
-									<li>interpersonal skills</li>
-									<li>Job readiness</li>
-									<li>Intro to building websites</li>
-								</ul>
+						</div><!--.col-->
+						​
+						<div class="col-sm-6 col-md-4">
+							<div class="thumbnail">
+								<img src="images/teamworks.png" alt="Team Works Logo" height="120" width="200">
+								<div class="caption">
+									<h3>NM Commission on the Status of Women, Team Works</h3>
+									<h3>Albuquerque, NM</h3>
+									<h4>Coursework to include:</h4>
+									<ul>
+										<li>Computer science</li>
+										<li>user end information technology</li>
+										<li>interpersonal skills</li>
+										<li>Job readiness</li>
+										<li>Intro to building websites</li>
+									</ul>
+								</div>
 							</div>
-						</div>
-					</div><!--/.col-->
-				</div><!--/.row-->
-				<p class="pull-right"><a href="#">Back to top</a></p>
+						</div><!--/.col-->
+					</div><!--/.row-->
 
+					<p class="pull-right"><a href="#">Back to top</a></p>
+
+				</div><!--.row-->
+				<!-- End Column Example -->
 
 				<hr class="featurette-divider">
 
@@ -357,7 +361,7 @@
 				<div class="row-padded">
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="images/logo2.png" alt="Farmers Insurance" height="200" width="200">
+							<img src="images/farmers.jpg" alt="Farmers Insurance" height="200" width="200">
 							<div class="caption">
 								<h3>Farmers Insurance</h3>
 								<h4>Albuquerque, NM</h4>
@@ -373,7 +377,7 @@
 
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="images/yarnell-hill.png" alt="Yarnell Hill" height="300" width="300">
+							<img src="images/us-title.jpg" alt="US Title, LLC" height="300" width="300">
 							<div class="caption">
 								<h3>US Title, LLC</h3>
 								<h4>Albuquerque, NM</h4>
@@ -390,7 +394,7 @@
 					​
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img src="images/spider-pharm.png" alt="Blister Bug" height="300" width="300">
+							<img src="images/wamu-md.jpg" alt="Blister Bug" height="300" width="300">
 							<div class="caption">
 								<h3>Spider Pharm</h3>
 								<h4>Yarnell, Az</h4>
@@ -416,7 +420,7 @@
 							<span class="text-muted">See for yourself.</span>
 						</h2>
 						<h3 class="lead">
-							<a href="http://creativecorrie.com/">CreativeCorie.com</a>
+							<p>A modest sample of my work.</p>
 						</h3>
 					</div>
 					<div class="col-md-5">
@@ -424,6 +428,37 @@
 
 					</div>
 				</div>
+
+				<div class="row-padded">
+
+
+					<!-- Projects Row 1-->
+					<div class="row">
+						<div class="col-md-6 portfolio-item">
+							<a href="http://creativecorrie.com/">
+								<img class="img-responsive" src="images/creative-corrie-ws.PNG" height="400 px" width="700 px">
+							</a>
+							<h3>
+								<a href="http://creativecorrie.com/">CreativeCorrie.com</a>
+							</h3>
+
+							<p>Coming Soon!</p>
+						</div>
+						<div class="col-md-6 portfolio-item">
+							<a href="http://creativecorrie.com/">
+								<img class="img-responsive" src="http://placehold.it/700x400" alt="CreativeCorie.com">
+							</a>
+							<h3>
+								<a href="#">Project Two</a>
+							</h3>
+							<p>Coming Soon!</p>
+						</div>
+					</div>
+					<!-- /.row -->
+
+
+				</div>
+
 
 
 				<hr class="featurette-divider">

@@ -144,6 +144,14 @@ body {
 	padding: 15px;
 }
 
+/********************************************
+* Non-Essential Page Styles
+********************************************/
+.content-box {
+	background-color: #cccccc;
+	padding: 15px;
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
