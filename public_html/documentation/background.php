@@ -11,6 +11,7 @@
 
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+		<link rel="icon" href="../../favicon.ico">
 
 		<!-- My Custom CSS creativecorrie@gmail.com -->
 		<!-- <link rel="stylesheet" href="../css/stylesheet.css" type="text/css"/>-->
@@ -30,10 +31,11 @@
 
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<link rel="icon" href="../../favicon.ico">
 
 		<!-- Custom styles for this template -->
 		<link href="../css/carousel.css" rel="stylesheet">
+		<link rel="icon" type="images/ico" href="../images/favicon.ico">
+
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
@@ -70,7 +72,7 @@
 									<li role="separator" class="divider"></li>
 									<li><a href="#Samples">My Samples</a></li>
 									<li role="separator" class="divider"></li>
-									<li><a href="#">Contact Me Now</a></li>
+									<li><a href="#Contact">Contact Me Now</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -120,7 +122,7 @@
 						<div class="carousel-caption">
 							<h1>Creative marketing visionary, web developer and artist.</h1>
 							<p>I'm skilled in graphic and web design, databases, MySQL, PHP, social media and building strong business alliances in the community.</p>
-							<p><a class="btn btn-lg btn-primary" href="http://creativecorrie.com/contact/" role="button">Contact me now</a></p>
+							<p><a class="btn btn-lg btn-primary" href="#Contact" role="button">Contact me now</a></p>
 						</div>
 					</div>
 				</div>
@@ -264,7 +266,7 @@
 				​
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-						<img src="../images/teamworks.jpg" alt="Team Works Logo" height="120" width="200">
+						<img src="../images/teamworks.png" alt="Team Works Logo" height="120" width="200">
 						<div class="caption">
 							<h3>NM Commission on the Status of Women, Team Works</h3>
 							<h3>Albuquerque, NM</h3>
