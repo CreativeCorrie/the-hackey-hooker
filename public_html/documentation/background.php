@@ -54,7 +54,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="home.php">
-							<img alt="Logo" src="../images/logo2.png" height="20" width="50">
+							<img alt="Logo" src="../images/logo2.png" height="25" width="60">
 						</a>
 					</div>
 
@@ -377,7 +377,7 @@
 <!--****            Marketing message & featurettes End              ****-->
 <!--****=============================================================****-->
 <!--****=============================================================****-->
-<!--****                       Contact Form                          ****-->
+<!--****                    Contact Form Start                       ****-->
 <!--****=============================================================****-->
 			<div class="row featurette">
 				<div class="col-md-7 col-md-push-5">
@@ -433,10 +433,12 @@
 					<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 				</form>
 
-
-
-
-
+<!--****=============================================================****-->
+<!--****                     Contact Form End                        ****-->
+<!--****=============================================================****-->
+<!--****=============================================================****-->
+<!--****                       Footer Start                          ****-->
+<!--****=============================================================****-->
 			<!-- FOOTER -->
 			<footer>
 				<p class="pull-right"><a href="#">Back to top</a></p>
