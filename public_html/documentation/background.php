@@ -11,7 +11,6 @@
 
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-		<link rel="icon" href="../../favicon.ico">
 
 		<!-- My Custom CSS creativecorrie@gmail.com -->
 		<!-- <link rel="stylesheet" href="../css/stylesheet.css" type="text/css"/>-->
@@ -34,7 +33,10 @@
 
 		<!-- Custom styles for this template -->
 		<link href="../css/carousel.css" rel="stylesheet">
-		<link rel="icon" type="images/ico" href="../images/favicon.ico">
+
+		<title>The Hackey Hooker</title>
+				<link rel="icon" type="images/ico" href="../images/favicon.ico">
+
 
 	</head>
 	<body class="sfooter">
