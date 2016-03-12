@@ -9,7 +9,7 @@
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-		<<!-- Optional theme -->
+		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
 		<!-- My Custom CSS creativecorrie@gmail.com -->
@@ -373,6 +373,68 @@
 			<hr class="featurette-divider">
 
 			<!-- /END THE FEATURETTES -->
+<!--****=============================================================****-->
+<!--****            Marketing message & featurettes End              ****-->
+<!--****=============================================================****-->
+<!--****=============================================================****-->
+<!--****                       Contact Form                          ****-->
+<!--****=============================================================****-->
+			<div class="row featurette">
+				<div class="col-md-7 col-md-push-5">
+					<h2 class="featurette-heading"><a name="Contact">Contact.</a>
+						<span class="text-muted">Thanks for Visiting!</span>
+					</h2>
+					<p class="lead">I look forward to hearing from you.</p>
+				</div>
+				<div class="col-md-5 col-md-pull-7">
+					<img class="featurette-image img-responsive center-block" src="../images/angel.jpg" alt="Contact">
+				</div>
+			</div>
+
+			<div class="row-padded">
+				<form class="form-horizontal well" action="../php/mailer.php">
+					<div class="form-group">
+						<label for="name">Name</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-user" aria-hidden="true"></i>
+							</div>
+							<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="email">Email address</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-envelope" aria-hidden="true"></i>
+							</div>
+							<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="subject">Subject</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-pencil" aria-hidden="true"></i>
+							</div>
+							<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+						</div>
+					</div>
+					<div class="form-group">
+						<label for="message">Message</label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-comment" aria-hidden="true"></i>
+							</div>
+							<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+						</div>
+					</div>
+					<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+					<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+				</form>
+
+
+
 
 
 			<!-- FOOTER -->
@@ -383,8 +445,5 @@
 
 		</div><!-- /.container -->
 
-<!--****=============================================================****-->
-<!--****            Marketing message & featurettes End              ****-->
-<!--****=============================================================****-->
 	</body>
 </html>
