@@ -353,6 +353,58 @@
 					</div><!--/.col-->
 				</div><!--/.row-->
 
+
+				<div class="row-padded">
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img src="images/logo2.png" alt="Farmers Insurance" height="200" width="200">
+							<div class="caption">
+								<h3>Farmers Insurance</h3>
+								<h4>Albuquerque, NM</h4>
+								<h4>2007-2009</h4>
+								<h4>Operations Manager</h4>
+								<ul>
+									<li>Maintained all agency systems and databases, customer records and provided a paperless environment. </li>
+									<li>Coordinated work flow among agent, producers and support staff. Prioritized and delegated tasks, provided motivation and direction to create a positive work environment and ensured accurate, on-time completion.  </li>
+								</ul>
+							</div>
+						</div>
+					</div><!--/.col-->
+
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img src="images/yarnell-hill.png" alt="Yarnell Hill" height="300" width="300">
+							<div class="caption">
+								<h3>US Title, LLC</h3>
+								<h4>Albuquerque, NM</h4>
+								<h4>2004-2007</h4>
+								<h4>Marketing Representative</h4>
+								<ul>
+									<li>Developed a clientele base of over 1,500 associates and provided marketing services to include social and website plans, collateral material, referral tactics and Realtor© tours.</li>
+									<li>Increased market share ranking from #11/14 to #4/12 among title insurance competitors, by creating and implementing value-added services and ambitious market growth strategy.</li>
+									<li>Effectively collected, organized and streamlined customer files to online server, saving company resources on budget, time and employee efforts. </li>
+								</ul>
+							</div>
+						</div>
+					</div><!--.col-->
+					​
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img src="images/spider-pharm.png" alt="Blister Bug" height="300" width="300">
+							<div class="caption">
+								<h3>Spider Pharm</h3>
+								<h4>Yarnell, Az</h4>
+								<h4>2009-2011</h4>
+								<h4>Database Manager </h4>
+								<ul>
+									<li>Processed and cared for specimen needs through clinical health observation and built scratch database to aid in the milking rotation of thousands of arachnids, to ensure higher potency of specimens for medical research. </li>
+								</ul>
+							</div>
+						</div>
+					</div><!--/.col-->
+				</div><!--/.row-->
+
+
 				<p class="pull-right"><a href="#">Back to top</a></p>
 
 
@@ -385,16 +437,6 @@
 				<!--****=============================================================****-->
 				<div class="row featurette">
 					<div class="col-md-7 col-md-push-5">
-
-						<div>
-							<a href="https://twitter.com/CreativeCorrie">
-								<img src="images/twitter.jpg">
-							</a>
-						</div>
-
-
-
-
 						<h2 class="featurette-heading"><a name="Contact">Contact Me.</a>
 							<span class="text-muted">Thanks for Visiting!</span>
 						</h2>
