@@ -214,7 +214,6 @@
 					</div>
 				</div>
 
-				<div class="row row-padded"
 				<div class="row-padded">
 					<!-- Begin Columns Here -->
 					<div class="row row-flex">
@@ -305,8 +304,10 @@
 					</div>
 				</div>
 
-				<div class="row row-padded"
 				<div class="row-padded">
+					<!-- Begin Columns Here -->
+					<div class="row row-flex">
+
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
 							<img src="images/logo2.png" alt="Creative Corrie Artista Logo" height="200" width="200">
@@ -359,6 +360,9 @@
 
 
 				<div class="row-padded">
+					<!-- Begin Columns Here -->
+					<div class="row row-flex">
+
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
 							<img src="images/farmers.jpg" alt="Farmers Insurance" height="200" width="200">
@@ -420,7 +424,7 @@
 							<span class="text-muted">See for yourself.</span>
 						</h2>
 						<h3 class="lead">
-							<p>A modest sample of my work.</p>
+							<p>A modest sampling of my work.</p>
 						</h3>
 					</div>
 					<div class="col-md-5">
