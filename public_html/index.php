@@ -388,6 +388,7 @@
 								<h4>2004-2007</h4>
 								<h4>Marketing Representative</h4>
 								<ul>
+									<li>Responsible for marketing and business development of stakeholders to include escrow officers, loan officers, real estate agents and internal support staff.</li>
 									<li>Developed a clientele base of over 1,500 associates and provided marketing services to include social and website plans, collateral material, referral tactics and Realtor© tours.</li>
 									<li>Increased market share ranking from #11/14 to #4/12 among title insurance competitors, by creating and implementing value-added services and ambitious market growth strategy.</li>
 									<li>Effectively collected, organized and streamlined customer files to online server, saving company resources on budget, time and employee efforts. </li>
@@ -400,12 +401,15 @@
 						<div class="thumbnail">
 							<img src="images/wamu-md.jpg" alt="Blister Bug" height="300" width="300">
 							<div class="caption">
-								<h3>Spider Pharm</h3>
-								<h4>Yarnell, Az</h4>
+								<h3>Washington Mutual Home Loans</h3>
+								<h4>Albuquerque, NM</h4>
 								<h4>2009-2011</h4>
 								<h4>Database Manager </h4>
 								<ul>
-									<li>Processed and cared for specimen needs through clinical health observation and built scratch database to aid in the milking rotation of thousands of arachnids, to ensure higher potency of specimens for medical research. </li>
+									<li>Developed and implemented marketing plan and budget that included; new and refinance customer outreach, Realtor© relations, commercial lending, new construction and bulk loan transfers.</li>
+									<li>Personally responsible for the company’s largest revenue account to provide leads, open houses, tours and a database that tracked loan progress updates for clients and loan officers as well as updates through loan closing and up to the 5th anniversary of home purchase.</li>
+									<li>Aided in the operational transition, post-merger from North American Mortgage Company to Washington Mutual Home Loans, including equipment switch out, training on new systems and rebranding all collateral materials.</li>
+									<li>More than tripled monthly revenue within 6 months from $32 million in sales to $98 million as a result of the merger, expanding producers, sales staff and the thriving refinance and new home build markets during that time.</li>
 								</ul>
 							</div>
 						</div>
