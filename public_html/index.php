@@ -134,7 +134,7 @@
 							<div class="carousel-caption">
 								<h1>Lifelong scholar.</h1>
 								<p>I have a passion for educating myself and others to achieve goals.</p>
-								<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+								<p><a class="btn btn-lg btn-primary" href="#Education" role="button">Learn more</a></p>
 							</div>
 						</div>
 					</div>
@@ -144,7 +144,7 @@
 							<div class="carousel-caption">
 								<h1>Reliable and responsible self-starter.</h1>
 								<p>I'm an effective leader/collaborator in team-based projects. I belive in a high level of personal integrity and dedication for completion of self-directed projects.</p>
-								<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+								<p><a class="btn btn-lg btn-primary" href="#Samples" role="button">Browse gallery</a></p>
 							</div>
 						</div>
 					</div>
@@ -385,7 +385,7 @@
 							<div class="caption">
 								<h3>US Title, LLC</h3>
 								<h4>Albuquerque, NM</h4>
-								<h4>2004-2007</h4>
+								<h4>200-2004</h4>
 								<h4>Marketing Representative</h4>
 								<ul>
 									<li>Responsible for marketing and business development of stakeholders to include escrow officers, loan officers, real estate agents and internal support staff.</li>
